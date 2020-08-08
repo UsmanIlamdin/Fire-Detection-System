@@ -4,45 +4,47 @@ The top-level auxiliary file: uet_thesis.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plainnat.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
+I found no \citation commands---while reading file uet_thesis.aux
 Database file #1: references.bib
-You've used 5 entries,
+You've used 0 entries,
             2773 wiz_defined-function locations,
-            616 strings with 5432 characters,
-and the built_in function-call counts, 1562 in all, are:
-= -- 124
-> -- 61
-< -- 5
-+ -- 23
-- -- 18
-* -- 81
-:= -- 253
-add.period$ -- 15
-call.type$ -- 5
-change.case$ -- 18
-chr.to.int$ -- 5
-cite$ -- 10
-duplicate$ -- 90
-empty$ -- 161
-format.name$ -- 25
-if$ -- 326
+            592 strings with 4842 characters,
+and the built_in function-call counts, 33 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 6
-newline$ -- 33
-num.names$ -- 20
-pop$ -- 61
+missing$ -- 0
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 0
 quote$ -- 0
-skip$ -- 66
+skip$ -- 1
 stack$ -- 0
-substring$ -- 10
-swap$ -- 5
+substring$ -- 0
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 40
+type$ -- 0
 warning$ -- 0
-while$ -- 15
+while$ -- 0
 width$ -- 0
-write$ -- 67
+write$ -- 7
+(There was 1 error message)
